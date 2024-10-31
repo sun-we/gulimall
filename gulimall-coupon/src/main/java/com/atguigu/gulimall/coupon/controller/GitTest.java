@@ -1,5 +1,4 @@
 package com.atguigu.gulimall.coupon.controller;
-
 public class GitTest {
     public static void main(String[] args) {
         System.out.println("hello git1");
@@ -9,5 +8,6 @@ public class GitTest {
         System.out.println("master test");
         System.out.println("hot-fix test");
         System.out.println("push test");
+        System.out.println("push2 test");
     }
 }
